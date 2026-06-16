@@ -42,7 +42,7 @@ It includes scoring, win/loss tracking, and dynamic difficulty adjustment.
 - ThreadLocalRandom (Random Number Generation)
 
 ---
-
+```markdown id="better2"
 ## 📁 Project Structure
 
 Number Guessing Game/
@@ -59,6 +59,7 @@ Number Guessing Game/
 ├── README.md
 ├── .gitignore
 
+```
 
 ---
 
@@ -96,9 +97,12 @@ java -cp bin com.guessinggame.Main
 ---
 
 ## 👨‍💻 Author
+```markdown
+<<h3 align="center">Rajana Rohit</h3>
 
-Rajana Rohit
-CSE Student | IIT Tirupati
+<p align="center">
+CSE Student | IIT Tirupati <br>
 Passionate about building real-world Java projects
-
+</p>
+```
 ---
