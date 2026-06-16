@@ -97,9 +97,9 @@ java -cp bin com.guessinggame.Main
 ---
 
 ## 👨‍💻 Author
-```markdown
+
 > **Rajana Rohit**  
 > CSE Student | IIT Tirupati  
 > Passionate about building real-world Java projects
-```
+
 ---
