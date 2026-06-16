@@ -98,11 +98,8 @@ java -cp bin com.guessinggame.Main
 
 ## 👨‍💻 Author
 ```markdown
-<<h3 align="center">Rajana Rohit</h3>
-
-<p align="center">
-CSE Student | IIT Tirupati <br>
-Passionate about building real-world Java projects
-</p>
+> **Rajana Rohit**  
+> CSE Student | IIT Tirupati  
+> Passionate about building real-world Java projects
 ```
 ---
