@@ -44,6 +44,7 @@ It includes scoring, win/loss tracking, and dynamic difficulty adjustment.
 ---
 
 ## 📁 Project Structure
+
 Number Guessing Game/
 │
 ├── src/
